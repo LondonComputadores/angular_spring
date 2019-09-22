@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ComercialApiApplication<comercial-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.algaworks.comercial.ComercialApiApplication",
+            "projectName": "comercial-api",
+            "args": ""
+        }
+    ]
+}
